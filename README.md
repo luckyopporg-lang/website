@@ -1,6 +1,6 @@
 # Lucky Opportunity Organization — Website
 
-A fast, modern, accessible website for **Lucky Opportunity Organization**, a Sacramento nonprofit empowering youth, families, and the homeless. Built as a static site (HTML/CSS/JS, no build step) for instant, free hosting on Netlify.
+A fast, modern, accessible website for **Lucky Opportunity Organization**, a Elk Grove nonprofit empowering youth, families, and the homeless. Built as a static site (HTML/CSS/JS, no build step) for instant, free hosting on Netlify.
 
 ## Pages
 - `index.html` — Home
